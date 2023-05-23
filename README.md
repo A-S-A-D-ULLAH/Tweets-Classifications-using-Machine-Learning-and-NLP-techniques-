@@ -1,0 +1,2 @@
+# Tweets-Classifications-using-Machine-Learning-and-NLP-techniques-
+The goal of this project is to use machine learning algorithms and natural language processing techniques to categories tweets according to their topic. To categories tweets into one of four categories—sports and gaming, business and entrepreneurs, everyday life, and pop culture—we will use logistic regression and Naive Bayes classifiers. 
