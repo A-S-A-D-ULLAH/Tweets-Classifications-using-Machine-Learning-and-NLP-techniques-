@@ -12,6 +12,9 @@ Furthermore, NLP techniques such as vectorizing are applied to convert the textu
 
 ## Dataset
 We use dataset from kaggle contain (6443, 5) shape. The columns of the datset are shows in the below figure.
+<p align="center">
+  <img src=".png" align="center" width="800" height="400">
+</p>
 
 ## Expected Outcomes:
 By implementing this project, we anticipate achieving accurate and reliable tweet classification results. The trained model should be able to assign tweets to their corresponding categories with a high degree of precision. This can open doors to numerous applications, including sentiment analysis, trend analysis, and targeted marketing campaigns based on users' interests.
